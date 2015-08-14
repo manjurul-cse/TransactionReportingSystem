@@ -1,0 +1,88 @@
+D:\BasisTraining\Projects\Practice\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.DetailTransactionUI.resources
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.Properties.Resources.resources
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.RemarksUI.resources
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.TransactionSummaryUI.resources
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.pdb
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.UI.DailyTransactionUI.resources
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.exe
+E:\Alamgir\Basis\Projects\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.pdb
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.exe
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.pdb
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.pdb
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.UI.DailyTransactionUI.resources
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.DetailTransactionUI.resources
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.Properties.Resources.resources
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.RemarksUI.resources
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.TransactionSummaryUI.resources
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.exe
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.pdb
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.pdb
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.UI.DailyTransactionUI.resources
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.DetailTransactionUI.resources
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.Properties.Resources.resources
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.RemarksUI.resources
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.TransactionSummaryUI.resources
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.exe
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.pdb
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.pdb
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.UI.DailyTransactionUI.resources
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.DetailTransactionUI.resources
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.Properties.Resources.resources
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.RemarksUI.resources
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.TransactionSummaryUI.resources
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csprojResolveAssemblyReference.cache
+E:\My work\C#\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csproj.GenerateResource.Cache
+H:\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.exe
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.pdb
+H:\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe
+H:\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.pdb
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csprojResolveAssemblyReference.cache
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.UI.DailyTransactionUI.resources
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.DetailTransactionUI.resources
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.Properties.Resources.resources
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.RemarksUI.resources
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.TransactionSummaryUI.resources
+H:\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csproj.GenerateResource.Cache
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.exe
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.pdb
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.pdb
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csprojResolveAssemblyReference.cache
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.UI.DailyTransactionUI.resources
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.DetailTransactionUI.resources
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.Properties.Resources.resources
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.RemarksUI.resources
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.TransactionSummaryUI.resources
+D:\pen\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csproj.GenerateResource.Cache
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe.config
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.exe
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.pdb
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.exe
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\bin\Debug\TransactionReportingSystem.pdb
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csprojResolveAssemblyReference.cache
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.UI.DailyTransactionUI.resources
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.DetailTransactionUI.resources
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.Properties.Resources.resources
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.RemarksUI.resources
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.TransactionSummaryUI.resources
+G:\Project\TransactionReportingSystem\TransactionReportingSystem\obj\x86\Debug\TransactionReportingSystem.csproj.GenerateResource.Cache
